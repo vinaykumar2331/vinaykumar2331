@@ -41,11 +41,11 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumarmadduri&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaykumar2331&show_icons=true&theme=radical" alt="Vinay's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinaykumarmadduri&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinaykumar2331&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
