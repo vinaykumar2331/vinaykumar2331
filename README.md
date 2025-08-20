@@ -8,7 +8,7 @@
 🎓 I'm a recent graduate and passionate data analyst from India, eager to turn raw data into actionable insights.  
 📊 I enjoy working with data to uncover patterns, solve problems, and drive decisions through analytics.  
 🧠 Currently honing my skills through real-world projects and continuous learning.  
-🚀 Open to internships and entry-level opportunities in data analysis or business intelligence.
+🚀 Open to entry-level opportunities in data analysis or business intelligence.
 
 ---
 
