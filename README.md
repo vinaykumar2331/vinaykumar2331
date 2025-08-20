@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar Madhuri</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Insight-Driven | Always Curious</h3>
 
-<p align="center">
-  <img src="https://github.com/avinash-218/avinash-218/assets/115407674/c9b9290f-c2c9-4a6a-ae3c-b827083103fd" alt="Data Analyst Banner" width="800"/>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
