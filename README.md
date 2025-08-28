@@ -52,10 +52,11 @@
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
   </a>
-</p>
-<a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
+</p>
+
 
 ---
 
